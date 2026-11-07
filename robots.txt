@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/sitemap.xml
+Sitemap: https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/news-sitemap.xml

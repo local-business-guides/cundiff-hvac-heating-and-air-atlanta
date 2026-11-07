@@ -25,6 +25,9 @@
 - [Top HVAC Contractor Ga in Atlanta](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/top-hvac-contractor-ga-in-atlanta/): Top HVAC Contractor Ga in Atlanta for home heating and cooling guidance. Call Cundiff HVAC Heating & Air in Atlanta today to discuss your needs.
 - [Best HVAC Contractor Ga Atlanta](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/best-hvac-contractor-ga-atlanta/): Best HVAC Contractor Ga Atlanta: get a clearer plan for home heating and cooling. Call Cundiff HVAC Heating & Air in Atlanta today to discuss your needs.
 
+## Newsroom
+- [Cundiff HVAC Heating & Air Publishes New Guide to HVAC Contractor Atlanta GA](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/news/2026-11-07-cundiff-hvac-heating-air-publishes-new-guide-to/): Cundiff HVAC Heating & Air published a new guide for Atlanta readers, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-07)
+
 ## Pages
 - [HVAC Contractor in Atlanta, Georgia](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/): Get heating and cooling service for your home or business from a local Atlanta HVAC contractor. Call +1470-229-0600.
 - [About Cundiff HVAC in Atlanta](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/about/): About Cundiff HVAC Heating & Air, Atlanta.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/news/rss.xml)
 - [Main resource site](https://cundiff-atlanta-hvac.localbusinesses1.chatgpt.site)
