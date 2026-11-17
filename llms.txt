@@ -14,9 +14,9 @@
 - Heating contractor
 
 ## Guides
-- [HVAC Contractor Atlanta for Heating and Cooling](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/hvac-contractor-atlanta/): Choose an HVAC Contractor Atlanta homeowners can call about heating and cooling. Contact Cundiff HVAC Heating & Air in Atlanta to discuss your needs today.
-- [HVAC Contractor Atlanta GA for Home Comfort](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/hvac-contractor-atlanta-ga/): Need an HVAC Contractor Atlanta GA for year-round comfort? Call Cundiff HVAC Heating & Air in Atlanta to discuss your heating and cooling needs today.
 - [HVAC Repair Atlanta for Home Heating and Cooling](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/hvac-repair-atlanta/): HVAC Repair Atlanta from Cundiff HVAC Heating & Air helps sort out heating or cooling problems. Call our Atlanta team to discuss repair service today.
+- [HVAC Contractor Atlanta GA for Home Comfort](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/hvac-contractor-atlanta-ga/): Need an HVAC Contractor Atlanta GA for year-round comfort? Call Cundiff HVAC Heating & Air in Atlanta to discuss your heating and cooling needs today.
+- [HVAC Contractor Atlanta for Heating and Cooling](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/hvac-contractor-atlanta/): Choose an HVAC Contractor Atlanta homeowners can call about heating and cooling. Contact Cundiff HVAC Heating & Air in Atlanta to discuss your needs today.
 - [HVAC Installation Atlanta for Home Comfort](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/hvac-installation-atlanta/): HVAC Installation Atlanta from Cundiff HVAC Heating & Air helps you plan a home comfort upgrade. Call our Atlanta team to discuss your needs today.
 - [HVAC Replacement Atlanta for Your Home](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/hvac-replacement-atlanta/): Considering HVAC Replacement Atlanta? Get practical guidance for your home in Atlanta, Georgia, and talk through your next step with Cundiff HVAC. Call today.
 - [HVAC Maintenance Atlanta for Year-Round Comfort](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/hvac-maintenance-atlanta/): Need HVAC Maintenance Atlanta? Keep heating and cooling concerns on your radar in Atlanta, Georgia. Talk with Cundiff HVAC and call to plan a service visit.
@@ -26,6 +26,7 @@
 - [Best HVAC Contractor Ga Atlanta](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/best-hvac-contractor-ga-atlanta/): Best HVAC Contractor Ga Atlanta: get a clearer plan for home heating and cooling. Call Cundiff HVAC Heating & Air in Atlanta today to discuss your needs.
 
 ## Newsroom
+- [Cundiff HVAC Shares Atlanta Repair Guide in Four Formats](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/news/2026-11-17-cundiff-hvac-shares-atlanta-repair-guide-in-four/): Cundiff HVAC published a guide to HVAC Repair Atlanta this week, along with a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-17)
 - [Atlanta HVAC Guide Released by Cundiff HVAC Heating & Air](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/news/2026-11-13-atlanta-hvac-guide-released-by-cundiff-hvac/): Cundiff HVAC Heating & Air has released an Atlanta HVAC guide, with a related YouTube video, podcast episode and SoundCloud audio version. (2026-11-13)
 - [Cundiff HVAC Heating & Air Publishes New Information for Atlanta HVAC Customers](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/news/2026-11-09-cundiff-hvac-heating-air-publishes-new-information/): Cundiff HVAC Heating & Air has published new information about HVAC contractors in Atlanta, with related video and audio content available online. (2026-11-09)
 - [Cundiff HVAC Heating & Air Publishes New Guide to HVAC Contractor Atlanta GA](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/news/2026-11-07-cundiff-hvac-heating-air-publishes-new-guide-to/): Cundiff HVAC Heating & Air published a new guide for Atlanta readers, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-07)
@@ -38,4 +39,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/cundiff-hvac-heating-and-air-atlanta/news/rss.xml)
-- [Main resource site](https://cundiff-atlanta-hvac.localbusinesses1.chatgpt.site)
+- [Main resource site](https://cundiff-atlanta-hvac.localbusinesses1.chatgpt.site/resources)
